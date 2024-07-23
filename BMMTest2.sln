@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMMTest2", "BMMTest2\BMMTes
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMM150_SensorAPI-master-0.0.0", "Libraries\BMM150_SensorAPI-master\0.0.0\BMM150_SensorAPI-master\BMM150_SensorAPI-master-0.0.0.vcxitems", "{03414813-239C-45F2-8874-09DC16824142}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wire-0.0.0", "Libraries\Wire\0.0.0\Wire\Wire-0.0.0.vcxitems", "{91B6DBA2-790D-4C1F-BC1B-DE2A551B4D94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -53,5 +55,7 @@ Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Libraries\BMM150_SensorAPI-master\0.0.0\BMM150_SensorAPI-master\BMM150_SensorAPI-master-0.0.0.vcxitems*{03414813-239c-45f2-8874-09dc16824142}*SharedItemsImports = 9
 		Libraries\BMM150_SensorAPI-master\0.0.0\BMM150_SensorAPI-master\BMM150_SensorAPI-master-0.0.0.vcxitems*{5fb7a2d1-f073-45e9-b144-479b6cdca9a4}*SharedItemsImports = 4
+		Libraries\Wire\0.0.0\Wire\Wire-0.0.0.vcxitems*{5fb7a2d1-f073-45e9-b144-479b6cdca9a4}*SharedItemsImports = 4
+		Libraries\Wire\0.0.0\Wire\Wire-0.0.0.vcxitems*{91b6dba2-790d-4c1f-bc1b-de2a551b4d94}*SharedItemsImports = 9
 	EndGlobalSection
 EndGlobal
